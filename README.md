@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at Bennett University.<br>🌱 I’m currently learning Deep learning and Computer Vision.<br>💬 Ask me about AIML, Python, or anything tech-related!<br>📫 How to reach me: abhyudayasharma017@gmail.com<br>⚡ Fun fact: I like exploring new technologies and brainstorming on project ideas.
+🔭 I’m currently studying at Bennett University.<br>🌱 I’m currently learning Generative Artificial Intelligence. Vision.<br>💬 Ask me about AIML, Python, or anything tech-related!<br>📫 How to reach me: abhyudayasharma017@gmail.com<br>⚡ Fun fact: I like exploring new technologies and brainstorming on project ideas.
 
 
 ## 🌐 Socials:
